@@ -1,7 +1,7 @@
 <img src="dev_banner.jpg" alt="GitHub Banner" width="100%" />
 
 # I'm Monti, a Full Stack Developer 👋🏼:
-💼 currently working with [@BetterCommerce](https://www.bettercommerce.io/)<br>👨🏼‍🎓 I have done MCA<br>👨🏼‍💻 working as a full stack developer since 2022 <br>
+💼 currently working with [@Zinnia](https://zinnia.com/en)<br>👨🏼‍🎓 I have done MCA<br>👨🏼‍💻 working as a full stack developer since 2022 <br>
 
 
 # 💻 Tech Stack:
